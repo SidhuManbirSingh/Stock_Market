@@ -73,7 +73,7 @@ This will create the following output files:
 ### Standardizing Data for Comparative Analysis
 Use the standardization script to process the consolidated data:
 ```bash
-python standardize.py
+python Stan1.py
 ```
 This will output a standardized file (e.g., `all_others_standardized.csv`) that normalizes financial metrics across companies for easy comparison.
 
